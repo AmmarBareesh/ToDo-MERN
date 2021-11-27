@@ -1,5 +1,5 @@
 import axios from 'axios';
-const api = 'http://localhost:4001/api/todos';
+const api = 'https://ammarbareesh-todo.herokuapp.com/api/todos';
 
 // GETALL data
 export const getAll = () =>
